@@ -62,10 +62,10 @@ Management Development Institute of Singapore (MDIS)
 ##  Projects & Labs
 
 
-### 🔹 Active Directory Home Lab 
-### 🔹 Security Group, Group Policy and File Sharing 
-### 🔹 Patch Management 
-### 🔹 IT Helpdesk Ticketing System (Jira)
+### 🔸 [Active Directory Home Lab](https://github.com/minnsithu1323/Active-Directory-Lab)
+### 🔸 Security Group, Group Policy and File Sharing 
+### 🔸 Patch Management 
+### 🔸 IT Helpdesk Ticketing System (Jira)
 
 ---
 
