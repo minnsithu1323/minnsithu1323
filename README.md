@@ -7,12 +7,8 @@ I am an IT and Cybersecurity graduate-in-progress focused on building strong IT 
 
 ##  Education
 
-**Bachelor of Science (Hons) in Cybersecurity** *(In Progress)*  
-PSB Academy, Coventry University 
-*(Expected completion: May 2026)*
-
-**Diploma in Cybersecurity**  
-Management Development Institute of Singapore (MDIS)
+- **BSc (Hons) Cybersecurity – PSB Academy / Coventry University**(In Progress)
+- **Diploma in Cybersecurity – MDIS**
 
 ---
 
@@ -33,45 +29,47 @@ Management Development Institute of Singapore (MDIS)
   <img src="https://img.shields.io/badge/Google-IT%20Support-blue?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google-Cybersecurity-blue?style=for-the-badge&logo=google&logoColor=white"/>
 
----
-
-##  Technical Skills
-
-**Operating Systems & Platforms**
-- Windows 10 / 11
-- Windows Server (Active Directory fundamentals)
-- Linux (Basic)
-
-**IT Support & Administration**
-- Active Directory (user and group management, basic policies)
-- IT Helpdesk workflows
-- Ticketing systems (incident tracking & resolution)
-- User account troubleshooting
-
-**Networking & Fundamentals**
-- TCP/IP basics
-- DNS and DHCP fundamentals
-
-**Security Foundations**
-- Endpoint security concepts
-- Access control fundamentals
-- Security awareness best practices
 
 ---
 
 ##  Projects & Labs
 
 
-### 🔸 [Active Directory Home Lab](https://github.com/minnsithu1323/Active-Directory-Lab)
-### 🔸 Security Group, Group Policy and File Sharing 
-### 🔸 Patch Management 
-### 🔸 IT Helpdesk Ticketing System (Jira)
+### 🔸Active Directory & Windows Server Lab
+  Hands-on labs focused on deploying and managing a Windows domain environment using **Windows Server 2022**.
+
+-  **[Active Directory Domain Services (AD DS) Deployment](https://github.com/minnsithu1323/Active-Directory-Lab)**  
+  Installing AD DS, creating a new forest, and adding users and computers in a Windows Server 2022 domain environment.
+
+-  **[Security Group Creation and Management](https://github.com/minnsithu1323/Security-Group-Creation)**  
+  Creating security groups, managing group membership, and assigning access permissions.
+
+-  **[Group Policy Configuration](https://github.com/minnsithu1323/Group-Policy-Configuration)**  
+  Configuring password policies and account lockout policies using Group Policy Management.
+
+-  **[File Sharing and Drive Mapping](https://github.com/minnsithu1323/File-Sharing-and-Drive-Mapping)**  
+  Creating SMB shares and mapping network drives
+---
+
+### 🔸 Patch Management
+Managing endpoint updates and security patches using Action1.
+
+- **[Patch Management and Reporting Using Action1](https://github.com/minnsithu1323/Patch-Management)**  
+  Deploying Windows updates, scheduling patch automation and exporting reports.
+
+---
+
+### 🔸 IT Ticketing System
+Demonstrating IT service management (ITSM) workflows using a ticketing platform.
+
+- **[Ticketing Management Using Jira](https://github.com/minnsithu1323/Ticketing-System)**  
+  Creating, prioritizing, assigning and resolving IT support tickets using Jira Service Management.
 
 ---
 
 ##  Career Focus
 
-I am seeking an IT Helpdesk / IT Support role where I can apply my technical fundamentals, support users effectively, gain hands-on experience with enterprise IT systems, and continue growing within the IT field.
+I am seeking an IT Helpdesk Support role where I can apply my technical fundamentals, support users effectively, gain hands-on experience with enterprise IT systems, and continue growing within the IT field.
 
 ---
 
