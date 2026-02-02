@@ -67,6 +67,15 @@ Demonstrating IT service management (ITSM) workflows using a ticketing platform.
 
 ---
 
+### 🔸 Microsoft 365 (Office 365) Lab
+Hands-on practice with Microsoft 365 user and license management in an enterprise-style environment.
+
+- **[Microsoft 365 User Management](https://github.com/minnsithu1323/Microsoft-365-Lab)**  
+  Adding users, assigning Office 365 E5 licenses, managing roles, performing password resets, and validating end-user access to Office applications.
+
+
+---
+
 ##  Career Focus
 
 I am seeking an IT Helpdesk Support role where I can apply my technical fundamentals, support users effectively, gain hands-on experience with enterprise IT systems, and continue growing within the IT field.
