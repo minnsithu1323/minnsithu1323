@@ -1,7 +1,7 @@
 ## Hello, I’m Min Si Thu.
 
 
-I am an IT and Cybersecurity graduate-in-progress focused on building strong IT support fundamentals, with hands-on interest in Windows environments, Active Directory, ticketing workflows, and structured troubleshooting.
+I am an IT and Cybersecurity graduate-in-progress focused on building strong IT support fundamentals, with hands-on interest in Windows environments, Active Directory, ticketing workflows, and Microsoft 365.
 
 ---
 
