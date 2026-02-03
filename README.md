@@ -73,7 +73,11 @@ Hands-on practice with Microsoft 365 user and license management in an enterpris
 - **[Microsoft 365 User Management](https://github.com/minnsithu1323/Microsoft-365-Lab)**  
   Adding users, assigning Office 365 E5 licenses, managing roles, performing password resets, and validating end-user access to Office applications.
 
+- **[Microsoft 365 Guest User Management & Application Access](https://github.com/minnsithu1323/Microsoft-365-Guest-User-Management)**
+Inviting external (guest) users, managing guest identities using Microsoft Entra ID, assigning enterprise application access (e.g. Zoom), and handling user deletion and restoration.
 
+- **[Microsoft 365 Groups and Shared Mailbox Management](https://github.com/minnsithu1323/Microsoft-365-Groups-and-Shared-Mailboxes)**
+Creating Microsoft 365 groups, assigning owners and members, configuring shared mailboxes, setting automatic replies, and managing shared mailbox access and email communication.
 ---
 
 ##  Career Focus
